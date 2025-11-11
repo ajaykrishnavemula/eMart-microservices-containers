@@ -80,7 +80,7 @@ eMart-microservices-containers/
 ├── vagrantfiles_dock/ # vagrantfile config
 ├── docker-compose.yaml
 └── README.md
-
+```
 ## 🏗️ 3. Virtual Machine Setup (Vagrant)
 
 ### ⚡ Installation
