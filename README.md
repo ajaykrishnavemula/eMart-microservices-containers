@@ -1,10 +1,9 @@
-![EMart Microservices Application Banner](assets/banner.png)
+
 
 # 🛒 EMart Microservices Application
 
 > **Learn containerization using Docker and Vagrant by hosting the EMart microservices e-commerce application in isolated containers.**
 
----
 
 ## 🧭 Overview
 
@@ -183,4 +182,5 @@ restart: always
 docker-compose down
 ```
 
+**Thank you for exploring this project! Feel free to reach out or contribute. 🌟**
 
